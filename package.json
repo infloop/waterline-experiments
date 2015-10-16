@@ -1,0 +1,26 @@
+{
+  "name": "waterline-experiments",
+  "version": "0.0.1",
+  "description": "Research and experiments on Waterline ORM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infloop/waterline-experiments.git"
+  },
+  "keywords": [
+    "waterline"
+  ],
+  "author": "infloop",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/infloop/waterline-experiments/issues"
+  },
+  "homepage": "https://github.com/infloop/waterline-experiments#readme",
+  "dependencies": {
+    "sails-mongo": "^0.11.4",
+    "waterline": "^0.10.26"
+  }
+}

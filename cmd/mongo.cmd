@@ -1,0 +1,1 @@
+"c:\Program Files\MongoDB 2.6 Enterprise\bin\mongod.exe" --dbpath E:\mongoDb\waterline
